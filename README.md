@@ -71,6 +71,11 @@ The discrepancies were classified into three primary categories: business errors
 
 → **The two adjusted balances agree.** ✅
 
+# Author
+Huynh Truong Giang
+
+Email: *truonggiang281005@gmail.com*
+
 
 
  
