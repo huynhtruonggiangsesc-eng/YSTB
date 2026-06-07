@@ -31,7 +31,7 @@ On April 30, 2024, the accountant detected 8 reconciliation differences represen
 - Join type: **Full Outer Join**
 - Key column: `Date` and `Net cash flow`
 
-After merge, Add column 'Discrepancies' = 'Bank Statement.Net Cash Flow' - 'Net Cash FLow' ➡️ Filter and retain `null` ➡️ Replace all `null` for blank ➡️ **The result as the table at preview part**
+After merge, Add column `Discrepancies` = `Bank Statement.Net Cash Flow` - `Net Cash FLow` ➡️ Filter and retain `null` ➡️ Replace all `null` for blank ➡️ **The result as the table at preview part**
 
 ### Step 3: Classify discrepancies
 
