@@ -1,9 +1,9 @@
 # Project QueryMatch: Streamlining Bank Reconciliation and Variance Analysis utilizing Power Query.
-Used Excel and Power Query to reconcile accounting records of a small retail store in District 2 with bank statements.
+Used Excel and Power Query to reconcile accounting records of a small retail company in District 2 with bank statements.
 ## Dataset
-`Detailed Ledger_Jan 2024`- 34 transactions recorded in January for the store.
+`Detailed Ledger_Jan 2024`- 34 transactions recorded in January for the company.
 
-`Bank Statement_Jan 2024` - 36 bank statement records in Janurary
+`Bank Statement_Jan 2024` - 36 bank statement records in Janurary.
 ## Preview 
 
 On April 30, 2024, the accountant detected 8 reconciliation differences representing 7 distinct discrepancies between the ledger and bank statement, then performed the required adjustments.
