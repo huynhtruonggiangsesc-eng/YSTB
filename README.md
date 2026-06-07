@@ -11,7 +11,7 @@ On April 30, 2024, the accountant detected 8 reconciliation differences represen
 
 ## How to implemet 
 
-**Note: Transactions recorded in the store's books are opposite to those on the bank statement; meaning a Debit (Dr) for the store corresponds to a Credit (Cr) on the bank statement, and vice versa.**
+**Note: Transactions recorded in the company's books are opposite to those on the bank statement; meaning a Debit (Dr) for the company corresponds to a Credit (Cr) on the bank statement, and vice versa.**
 
 ### Step 1: Upload `Detailed Ledger_Jan 2024` and `Bank Statement_Jan 2024` to Power Query 
 
