@@ -6,7 +6,7 @@ Used Excel and Power Query to reconcile accounting records of a small retail com
 `Bank Statement_Jan 2024` - 36 bank statement records in Janurary.
 ## Preview 
 
-On April 30, 2024, the accountant detected 8 reconciliation differences representing 7 distinct discrepancies between the ledger and bank statement, then performed the required adjustments.
+On April 30, 2024, the author detected 8 reconciliation differences representing 7 distinct discrepancies between the ledger and bank statement, then performed the required adjustments.
 <img width="1392" height="163" alt="image" src="https://github.com/user-attachments/assets/f416a923-aa5b-4bf1-98b5-5e63b5110ab3" />
 
 ## How to implemet 
