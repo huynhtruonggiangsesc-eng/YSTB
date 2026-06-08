@@ -17,11 +17,11 @@ On April 30, 2024, the author detected 8 reconciliation differences representing
 
  **Detailed Ledger_Jan 2024**
 
- Column tab ➡️Customn Column ➡️ Named `Net cash flow` ➡️ Custom column formula: Enter `= Dr - Cr`
+ Column tab ➡️Customn Column ➡️ Named `Net cash movement` ➡️ Custom column formula: Enter `= Dr - Cr`
 
  **Bank Statement_Jan 2024**
 
- Column tab ➡️Customn Column ➡️ Named `Net cash flow` ➡️ Custom column formula: Enter `= Cr - Dr`
+ Column tab ➡️Customn Column ➡️ Named `Net cash movement` ➡️ Custom column formula: Enter `= Cr - Dr`
 
  ### Step 2: Merge and identify discrepancies
  
@@ -29,9 +29,9 @@ On April 30, 2024, the author detected 8 reconciliation differences representing
 
 - Use `Detailed Ledger_Jan 2024` as the primary table for reconciliation.
 - Join type: **Full Outer Join**
-- Key column: `Date` and `Net cash flow`
+- Key column: `Date` and `Net Cash Movement`
 
-After merge, Add column `Discrepancies` = `Bank Statement.Net Cash Flow` - `Net Cash FLow` ➡️ Filter and retain `null` ➡️ Replace all `null` for blank ➡️ **The result as the table at preview part**
+After merge, Add column `Discrepancies` = `Bank Statement.Net Cash Movement` - `Net Cash Movement` ➡️ Filter and retain `null` ➡️ Replace all `null` for blank ➡️ **The result as the table at preview part**
 
 ### Step 3: Classify discrepancies
 
