@@ -15,11 +15,11 @@ On April 30, 2024, the author detected 8 reconciliation differences representing
 
 ### Step 1: Upload `Detailed Ledger_Jan 2024` and `Bank Statement_Jan 2024` to Power Query 
 
- **Detailed Ledger_Jan 2024**
+ **Detailed Ledger_Jan 2024**:
 
  Column tab ➡️Customn Column ➡️ Named `Net cash movement` ➡️ Custom column formula: Enter `= Dr - Cr`
 
- **Bank Statement_Jan 2024**
+ **Bank Statement_Jan 2024**:
 
  Column tab ➡️Customn Column ➡️ Named `Net cash movement` ➡️ Custom column formula: Enter `= Cr - Dr`
 
